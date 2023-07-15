@@ -5,10 +5,10 @@
 //$password = "";
 //$db = "onlineshop";
 
-getenv(servername) = 'phpserver.mysql.database.azure.com';
-getenv(username) = 'phpdatabs';
-getenv(password) = 'Password@123';
-getenv(db_name) = 'onlineshop';
+$servername='phpserver.mysql.database.azure.com';
+$username='phpdatabs';
+$password='Password@123';
+$db='onlineshop';
 
 
  // Create connection
