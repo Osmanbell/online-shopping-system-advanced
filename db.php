@@ -5,9 +5,9 @@
 //$password = "";
 //$db = "onlineshop";
 
-$servername= getenv('phpserver.mysql.database.azure.com');
+$servername = getenv('phpserver.mysql.database.azure.com');
 $username = getenv('phpdatabs');
-$password =getenv('Password@123');
+$password = getenv('Password@123');
 $db = getenv('onlineshop');
 
 
