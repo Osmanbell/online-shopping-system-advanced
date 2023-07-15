@@ -8,7 +8,7 @@
 $host = 'phpserver.mysql.database.azure.com';
 $username = 'phpdatabs';
 $password = 'Password@123';
-$db_name = 'phpserver';
+$db_name = 'onlineshop';
 
 
 // Create connection
